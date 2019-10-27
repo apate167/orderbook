@@ -7,7 +7,7 @@
 </br>
 
 <h4> IDE: </h4>
-<a href="https://www.jetbrains.com/clion/">CLion</a>
+<pre><a href="https://www.jetbrains.com/clion/">CLion</a></pre>
 
 </br>
 
