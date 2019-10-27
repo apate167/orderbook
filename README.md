@@ -2,12 +2,17 @@
 
 <h4>External Libraries: </h4>
 <a href="https://github.com/google/googletest">Google-test</a> [ add to the <b>/orderbooktests/lib/</b> ] </br>
-Boost
+<a href="https://www.boost.org/">Boost</a>
 
 </br>
 
 <h4> IDE: </h4>
-CLion
+<a href="https://www.jetbrains.com/clion/">CLion</a>
+
+</br>
+
+<h4> OS: </h4>
+<pre>Description:	Ubuntu 19.04</pre>
 
 </br>
 
