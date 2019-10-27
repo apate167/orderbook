@@ -5,5 +5,5 @@
 <a href="https://github.com/google/googletest">Google-test</a> </br>
 Boost
 
-<h4>Credits for the code: </h4></br>
+<h4>Credits for the code: </h4>
 <a href="https://www.youtube.com/watch?v=fxN4xEZvrxI">Dimitri Nesteruk</a>
