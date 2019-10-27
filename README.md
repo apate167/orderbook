@@ -1,5 +1,5 @@
 # orderbook
-#Building a basic version of orderbook in C++
+# Building a basic version of orderbook in C++
 
 <h4>External Libraries: </h4>
 <a href="https://github.com/google/googletest">Google-test</a> </br>
