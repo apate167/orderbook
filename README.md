@@ -6,5 +6,10 @@ Boost
 
 </br>
 
+<h4> IDE: </h4>
+CLion
+
+</br>
+
 <h4>Credits for the code: </h4>
 <a href="https://www.youtube.com/watch?v=fxN4xEZvrxI">Dimitri Nesteruk</a>
