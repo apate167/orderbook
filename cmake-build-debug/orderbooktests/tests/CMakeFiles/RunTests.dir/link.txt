@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/RunTests.dir/stest.cpp.o  -o RunTests ../../lib/libgtestd.a ../../lib/libgtest_maind.a ../../orderbook/liborderbook.a ../../lib/libgtestd.a -lpthread 

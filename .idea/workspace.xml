@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="orderbookdemo" targetName="gtest" />
+      <config projectName="orderbookdemo" targetName="RunTests" />
+      <config projectName="orderbookdemo" targetName="orderbook" />
+      <config projectName="orderbookdemo" targetName="gtest_main" />
+      <config projectName="orderbookdemo" targetName="orderbookdemo" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="424987c9-d48e-4941-9274-259fbd681e2c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/orderbooktests/lib/.clang-format" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderbooktests/lib/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderbooktests/lib/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderbooktests/lib/BUILD.bazel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderbooktests/lib/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderbooktests/lib/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderbooktests/lib/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderbooktests/lib/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderbooktests/lib/WORKSPACE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderbooktests/lib/appveyor.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderbooktests/lib/ci/build-linux-bazel.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderbooktests/lib/ci/build-platformio.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderbooktests/lib/ci/env-linux.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderbooktests/lib/ci/env-osx.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderbooktests/lib/ci/get-nprocessors.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderbooktests/lib/ci/install-linux.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderbooktests/lib/ci/install-osx.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderbooktests/lib/ci/install-platformio.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderbooktests/lib/ci/log-config.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderbooktests/lib/ci/travis.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderbooktests/lib/library.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderbooktests/lib/platformio.ini" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/orderbooktests/lib" />
+  </component>
+  <component name="ProjectId" id="1Sndb53b8pUHCBs2ThBGVVoPngJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/orderbooktests/lib" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Google Test.orderbooktests.BidAskSpread">
+    <configuration name="orderbooktests.BidAskSpread" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="orderbookdemo" TARGET_NAME="RunTests" RUN_TARGET_PROJECT_NAME="orderbookdemo" RUN_TARGET_NAME="RunTests" TEST_CLASS="orderbooktests" TEST_METHOD="BidAskSpread" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="orderbooktests.OrderBookRemoval" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="orderbookdemo" TARGET_NAME="RunTests" RUN_TARGET_PROJECT_NAME="orderbookdemo" RUN_TARGET_NAME="RunTests" TEST_CLASS="orderbooktests" TEST_METHOD="OrderBookRemoval" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="orderbooktests.orderaddition" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="orderbookdemo" TARGET_NAME="RunTests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="orderbookdemo" RUN_TARGET_NAME="RunTests" TEST_CLASS="orderbooktests" TEST_METHOD="orderaddition" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="orderbooktests.orderbookemptybydefault" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="orderbookdemo" TARGET_NAME="RunTests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="orderbookdemo" RUN_TARGET_NAME="RunTests" TEST_CLASS="orderbooktests" TEST_METHOD="orderbookemptybydefault" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunTests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="orderbookdemo" TARGET_NAME="RunTests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="orderbookdemo" RUN_TARGET_NAME="RunTests">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="orderbookdemo" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="orderbookdemo" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="orderbook" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="orderbookdemo" TARGET_NAME="orderbook" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="orderbookdemo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="orderbookdemo" TARGET_NAME="orderbookdemo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="orderbookdemo" RUN_TARGET_NAME="orderbookdemo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.orderbookdemo" />
+      <item itemvalue="CMake Application.orderbook" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
+      <item itemvalue="CMake Application.RunTests" />
+      <item itemvalue="Google Test.orderbooktests.orderbookemptybydefault" />
+      <item itemvalue="Google Test.orderbooktests.orderaddition" />
+      <item itemvalue="Google Test.orderbooktests.OrderBookRemoval" />
+      <item itemvalue="Google Test.orderbooktests.BidAskSpread" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Google Test.orderbooktests.BidAskSpread" />
+        <item itemvalue="Google Test.orderbooktests.OrderBookRemoval" />
+        <item itemvalue="Google Test.orderbooktests.orderaddition" />
+        <item itemvalue="Google Test.orderbooktests.orderbookemptybydefault" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="424987c9-d48e-4941-9274-259fbd681e2c" name="Default Changelist" comment="" />
+      <created>1572203361307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572203361307</updated>
+      <workItem from="1572203364678" duration="12084000" />
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,15 @@
+/home/amal/CLionProjects/orderbookdemo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/amal/CLionProjects/orderbookdemo/cmake-build-debug/CMakeFiles/orderbookdemo.dir
+/home/amal/CLionProjects/orderbookdemo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/amal/CLionProjects/orderbookdemo/cmake-build-debug/orderbook/CMakeFiles/rebuild_cache.dir
+/home/amal/CLionProjects/orderbookdemo/cmake-build-debug/orderbook/CMakeFiles/orderbook.dir
+/home/amal/CLionProjects/orderbookdemo/cmake-build-debug/orderbook/CMakeFiles/edit_cache.dir
+/home/amal/CLionProjects/orderbookdemo/cmake-build-debug/orderbooktests/CMakeFiles/rebuild_cache.dir
+/home/amal/CLionProjects/orderbookdemo/cmake-build-debug/orderbooktests/CMakeFiles/edit_cache.dir
+/home/amal/CLionProjects/orderbookdemo/cmake-build-debug/orderbooktests/tests/CMakeFiles/rebuild_cache.dir
+/home/amal/CLionProjects/orderbookdemo/cmake-build-debug/orderbooktests/tests/CMakeFiles/RunTests.dir
+/home/amal/CLionProjects/orderbookdemo/cmake-build-debug/orderbooktests/tests/CMakeFiles/edit_cache.dir
+/home/amal/CLionProjects/orderbookdemo/cmake-build-debug/orderbooktests/lib/googletest/CMakeFiles/rebuild_cache.dir
+/home/amal/CLionProjects/orderbookdemo/cmake-build-debug/orderbooktests/lib/googletest/CMakeFiles/gtest.dir
+/home/amal/CLionProjects/orderbookdemo/cmake-build-debug/orderbooktests/lib/googletest/CMakeFiles/edit_cache.dir
+/home/amal/CLionProjects/orderbookdemo/cmake-build-debug/orderbooktests/lib/googletest/CMakeFiles/gtest_main.dir
