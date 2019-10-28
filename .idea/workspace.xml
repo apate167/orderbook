@@ -2,11 +2,11 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
+      <config projectName="orderbookdemo" targetName="orderbookdemo" />
       <config projectName="orderbookdemo" targetName="gtest" />
       <config projectName="orderbookdemo" targetName="RunTests" />
       <config projectName="orderbookdemo" targetName="orderbook" />
       <config projectName="orderbookdemo" targetName="gtest_main" />
-      <config projectName="orderbookdemo" targetName="orderbookdemo" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -16,6 +16,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="424987c9-d48e-4941-9274-259fbd681e2c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderbooktests/lib" beforeDir="false" afterPath="$PROJECT_DIR$/orderbooktests/lib" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/orderbooktests/lib/.clang-format" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/orderbooktests/lib/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/orderbooktests/lib/.travis.yml" beforeDir="false" />
@@ -57,7 +60,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/orderbooktests/lib" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Sndb53b8pUHCBs2ThBGVVoPngJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -78,7 +81,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Google Test.orderbooktests.BidAskSpread">
+  <component name="RunManager" selected="Google Test.orderbooktests.orderbookemptybydefault">
     <configuration name="orderbooktests.BidAskSpread" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="orderbookdemo" TARGET_NAME="RunTests" RUN_TARGET_PROJECT_NAME="orderbookdemo" RUN_TARGET_NAME="RunTests" TEST_CLASS="orderbooktests" TEST_METHOD="BidAskSpread" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -141,10 +144,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Google Test.orderbooktests.orderbookemptybydefault" />
         <item itemvalue="Google Test.orderbooktests.BidAskSpread" />
         <item itemvalue="Google Test.orderbooktests.OrderBookRemoval" />
         <item itemvalue="Google Test.orderbooktests.orderaddition" />
-        <item itemvalue="Google Test.orderbooktests.orderbookemptybydefault" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +162,19 @@
       <option name="presentableId" value="Default" />
       <updated>1572203361307</updated>
       <workItem from="1572203364678" duration="12084000" />
+      <workItem from="1572221234880" duration="315000" />
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
